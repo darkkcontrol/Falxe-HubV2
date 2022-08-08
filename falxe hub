@@ -14,7 +14,7 @@ local Window = Library.CreateLib("Flaxe Hub | | Made by NotFalxe#2002 on discord
     local MainSection = Main:NewSection("Main")
 
 
-    MainSection:NewButton("Fly", "FLYING TIME!!!", function()
+    MainSection:NewButton("Fly", "Fly the fuck away", function()
         loadstring(game:HttpGet("https://pastebin.com/raw/4m9gMNHS"))()
     end)
 
